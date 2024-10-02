@@ -1,11 +1,11 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://jakukur.github.io/',
   lang: 'zh-CN',
   title: 'Valaxy Theme Yun',
   author: {
-    name: '云游君',
+    name: '若诩',
   },
   description: 'Valaxy Theme Yun Preview.',
   social: [
