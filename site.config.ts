@@ -3,11 +3,11 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://jakukur.github.io/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: 'JakukuR's Blog',
   author: {
     name: '若诩',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: 'A salted fish without a dream.',
   social: [
     {
       name: 'RSS',
@@ -41,7 +41,7 @@ export default defineSiteConfig({
     },
     {
       name: '知乎',
-      link: 'https://www.zhihu.com/people/yunyoujun/',
+      link: 'https://www.zhihu.com/people/ruo-xu-9-93',
       icon: 'i-ri-zhihu-line',
       color: '#0084FF',
     },
