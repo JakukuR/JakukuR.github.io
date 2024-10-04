@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JakukuR‘s Blog",
+    "home_page_url": "https://jakukur.github.io/",
+    "feed_url": "https://jakukur.github.io/feed.json",
+    "description": "A salted fish without a dream.",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "若诩",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>视觉资料库 &amp;&amp; 入门指北</h1>\n<p><a href=\"https://sjtu-robomaster-team.github.io/\">上海交通大学云汉交龙战队博客</a></p>\n<p>[云汉交龙视觉——Harry个人博客](htt</p>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/particulars\" target=\"_blank\">https://jakukur.github.io/posts/particulars</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/particulars",
+            "title": "视觉资料库 && 入门指北",
+            "date_modified": "2024-10-03T00:00:00.000Z",
+            "date_published": "2024-10-03T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>操作手考核</h1>\n<ul>\n<li>操作手考核主要分为三部分</li>\n</ul>\n<ol>\n<li>基本规则知识————<strong>30%</strong></li>\n<li>基础能力测试————<strong>40%</strong></li>\n<li>综合能力测试————<strong>30%</strong></li>\n</ol>\n<h2>基本规则知</h2>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/Operator\" target=\"_blank\">https://jakukur.github.io/posts/Operator</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/Operator",
+            "title": "操作手考核细则",
+            "date_modified": "2024-10-02T00:00:00.000Z",
+            "date_published": "2024-10-02T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

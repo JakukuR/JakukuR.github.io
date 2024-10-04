@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JakukuR‘s Blog</title>
+        <link>https://jakukur.github.io/</link>
+        <description>A salted fish without a dream.</description>
+        <lastBuildDate>Fri, 04 Oct 2024 00:59:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>JakukuR‘s Blog</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://jakukur.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 若诩</copyright>
+        <atom:link href="https://jakukur.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[视觉资料库 && 入门指北]]></title>
+            <link>https://jakukur.github.io/posts/particulars</link>
+            <guid>https://jakukur.github.io/posts/particulars</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>视觉资料库 &amp;&amp; 入门指北</h1>
+<p><a href="https://sjtu-robomaster-team.github.io/">上海交通大学云汉交龙战队博客</a></p>
+<p>[云汉交龙视觉——Harry个人博客](htt</p>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/particulars" target="_blank">https://jakukur.github.io/posts/particulars</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[操作手考核细则]]></title>
+            <link>https://jakukur.github.io/posts/Operator</link>
+            <guid>https://jakukur.github.io/posts/Operator</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>操作手考核</h1>
+<ul>
+<li>操作手考核主要分为三部分</li>
+</ul>
+<ol>
+<li>基本规则知识————<strong>30%</strong></li>
+<li>基础能力测试————<strong>40%</strong></li>
+<li>综合能力测试————<strong>30%</strong></li>
+</ol>
+<h2>基本规则知</h2>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/Operator" target="_blank">https://jakukur.github.io/posts/Operator</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+    </channel>
+</rss>
