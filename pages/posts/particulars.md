@@ -26,7 +26,7 @@ top: 1
 
 [湖南大学跃鹿战队NeoZng——RM视觉入门](https://github.com/NeoZng/vision_tutorial)
 
--[RMCV 视觉开源数据站](https://rmcv.52pika.cn/#/rmcv)-(已弃)
+~~*[RMCV 视觉开源数据站](https://rmcv.52pika.cn/#/rmcv)*~~(已弃)
 
 [大符模拟器](https://github.com/RIvance/PowerRuneSimulator)
 
