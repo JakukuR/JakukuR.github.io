@@ -3,9 +3,13 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://jakukur.github.io/',
   lang: 'zh-CN',
-  title: 'JakukuR‘s Blog',
+  title: 'JakukuR's Blog',
+  subtitle: 'In the cloud',
   author: {
     name: '若诩',
+    avatar: 'https://github.com/JakukuR/JakukuR.github.io/blob/main/image/avatar.JPG',
+    status: {
+      emoji: '😣',
   },
   description: 'A salted fish without a dream.',
   social: [
