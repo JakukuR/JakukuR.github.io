@@ -11,7 +11,7 @@ top: 1
 
 # Docker部署rm_vision
 
-## ~~*网络*~~ 网线调参 + 通过ssh在Vscode中查看/修改容器中的代码
+## ~~___（网络）___~~网线调参 + 通过ssh在Vscode中查看/修改容器中的代码
 
 - #### ***保姆级教程***
 
@@ -333,7 +333,7 @@ Ubuntu * 1
 
 2. 输入Ubuntu的管理员密码，此时你已经进入了Ubuntu的终端中 
 
-   ![4](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/4.png)
+   ![4](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/4.png)
 
 - **运行Docker容器**
 
@@ -348,7 +348,7 @@ $ docker start rv_devel
 $ docker attach rv_devel 
 ```
 
-![5](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/5.png)
+![5](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/5.png)
 
 - 随后输入命令，启动`rm_vision`
 
@@ -381,7 +381,7 @@ $ ros2 launch foxglove_bridge foxglove_bridge_launch.xml port:=8765
 
 将默认的`localhost`修改为**” Ubuntu的IP地址 “**——演示为`192.168.137.244`
 
-![6](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/6.png)
+![6](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/6.png)
 
 ### 3、通过ssh在Vscode中查看/修改容器中的代码
 
@@ -390,7 +390,7 @@ $ ros2 launch foxglove_bridge foxglove_bridge_launch.xml port:=8765
 
 1. 输入`Remote-SSH`，在下方弹出的选项中选择`Remote-SSH:连接到主机/Connect to Host...`（汉化/未汉化）
 
-![7](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/7.png)
+![7](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/7.png)
 
 2. 点击**添加新的SSH主机**
 
@@ -399,11 +399,11 @@ $ ros2 launch foxglove_bridge foxglove_bridge_launch.xml port:=8765
 4. 输入Ubuntu管理员密码，添加完成
 5. 随后第一步，选择连接你刚才添加的主机，然后**在弹出的新窗口中输入管理员密码**，这样你就成功进入了Ubuntu中，左下角可见
 
-![8](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/8.png)
+![8](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/8.png)
 
 - 进入容器
   1. 点击左下角，在上方弹出的选择框内选择**附加到正在运行的容器/Attach to Running Container**
 
-![9](https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/26a01e4b4153e44cc731c21537f78402a986a4ac/image/docker_rm_vision/9.png)
+![9](https://github.com/JakukuR/JakukuR.github.io/blob/main/image/docker_rm_vision/9.png)
 
 2. 选择rv_devel，进入开发容器中，此时就可以编辑代码了
