@@ -1,5 +1,5 @@
 ---
-title: 操作手考核细则
+title: 操作手考核笔试部分
 date: 2024-10-08
 updated: 2024-10-08
 categories: Robomaster
