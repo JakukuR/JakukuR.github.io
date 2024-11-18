@@ -1,17 +1,20 @@
 import { defineSiteConfig } from 'valaxy'
 
-export default defineSiteConfig({
-  url: 'https://jakukur.github.io/',
+export default defineSiteConfig(
+{
   lang: 'zh-CN',
   title: 'JakukuR Blog',
   subtitle: 'In the cloud',
+  description: 'A salted fish without a dream.',
   author: {
     name: '若诩',
-    avatar: 'https://github.com/JakukuR/JakukuR.github.io/blob/main/image/avatar.JPG',
+    avatar: '/images/avatar.jpg', 
     status: {
       emoji: '😣',
+    },
   },
-  description: 'A salted fish without a dream.',
+  url: 'https://jakukur.github.io/',
+  mediumZoom: { enable: true },
   social: [
     {
       name: 'RSS',
@@ -76,7 +79,12 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,
+    type: 'fuse',
+  },
+
+  statistics: {
+    enable: true,
   },
 
   sponsor: {
