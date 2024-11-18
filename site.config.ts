@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://jakukur.github.io/',
   lang: 'zh-CN',
-  title: 'JakukuR's Blog',
+  title: 'JakukuR Blog',
   subtitle: 'In the cloud',
   author: {
     name: '若诩',
