@@ -8,7 +8,7 @@ export default defineSiteConfig(
   description: 'A salted fish without a dream.',
   author: {
     name: '若诩',
-    avatar: '/images/avatar.jpg', 
+    avatar: 'https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/refs/heads/main/image/avatar.JPG', 
     status: {
       emoji: '😣',
     },
