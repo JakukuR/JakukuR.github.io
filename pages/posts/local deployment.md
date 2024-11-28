@@ -15,7 +15,7 @@ top: 1
 
 - ## 依赖环境 ##
 
-  （1）**系统环境 **
+  （1）**系统环境**
 
   ​	1、Ubuntu-22.04
 
@@ -72,7 +72,7 @@ $ ros2 launch rm_serial_driver serial_driver.launch.py # 串口节点
 5、运行整车代码
 
 ```sh
-$ ros2 ros2 launch rm_vision_bringup vision_bringup.launch.py # 整车
+$ ros2 launch rm_vision_bringup vision_bringup.launch.py # 整车
 ```
 
 - ## Foxglove可视化
