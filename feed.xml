@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JakukuR Blog</title>
+        <link>https://jakukur.github.io/</link>
+        <description>A salted fish without a dream.</description>
+        <lastBuildDate>Wed, 18 Dec 2024 12:53:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>JakukuR Blog</title>
+            <url>https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/refs/heads/main/image/avatar.JPG</url>
+            <link>https://jakukur.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 若诩</copyright>
+        <atom:link href="https://jakukur.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SDUST-Sandard rm_vision 本地部署流程]]></title>
+            <link>https://jakukur.github.io/posts/local deployment</link>
+            <guid>https://jakukur.github.io/posts/local deployment</guid>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>SDUST-Sandard rm_vision 本地部署流程</h1>
+<hr>
+<ul>
+<li>
+<h2>依赖环境</h2>
+<p>（1）<strong>系统环境</strong></p>
+<p>​	1、Ubuntu-22.04</p>
+</li>
+</ul>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/local deployment" target="_blank">https://jakukur.github.io/posts/local deployment</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[Docker部署rm_vision——保姆级流程]]></title>
+            <link>https://jakukur.github.io/posts/Docker_rm_vision</link>
+            <guid>https://jakukur.github.io/posts/Docker_rm_vision</guid>
+            <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Docker部署rm_vision</h1>
+<h2><s><em><strong>（网络）</strong></em></s> 网线调参 + 通过ssh在Vscode中查看/修改容器中的代码</h2>
+<ul>
+<li>
+<h4><em><strong>保姆级教程</strong></em></h4>
+</li>
+</ul>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/Docker_rm_vision" target="_blank">https://jakukur.github.io/posts/Docker_rm_vision</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[Sentry_SDUST简易部署流程]]></title>
+            <link>https://jakukur.github.io/posts/Sentry_SDUST</link>
+            <guid>https://jakukur.github.io/posts/Sentry_SDUST</guid>
+            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Sentry_SDUST简易部署流程</h1>
+<hr>
+<h2>1、依赖</h2>
+<ul>
+<li><strong>系统</strong>
+<ul>
+<li>Ubuntu 22.04</li>
+<li>ROS Humble (desktop-fu</li>
+</ul>
+</li>
+</ul>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/Sentry_SDUST" target="_blank">https://jakukur.github.io/posts/Sentry_SDUST</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[操作手考核笔试部分]]></title>
+            <link>https://jakukur.github.io/posts/op2</link>
+            <guid>https://jakukur.github.io/posts/op2</guid>
+            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>操作手考核笔试部分 [2024.10]</h1>
+<blockquote>
+<p>题目为<strong>填空题、不定项选择题以及简答题</strong>，考察对比赛以及部分规则了解程度</p>
+</blockquote>
+<h3>一、 填空（30%）</h3>
+<p>1、Robomaste</p>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/op2" target="_blank">https://jakukur.github.io/posts/op2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[视觉资料库 && 入门指北]]></title>
+            <link>https://jakukur.github.io/posts/particulars</link>
+            <guid>https://jakukur.github.io/posts/particulars</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>视觉资料库 &amp;&amp; 入门指北</h1>
+<p><a href="https://sjtu-robomaster-team.github.io/">上海交通大学云汉交龙战队博客</a></p>
+<p>[云汉交龙视觉——Harry个人博客](htt</p>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/particulars" target="_blank">https://jakukur.github.io/posts/particulars</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[操作手考核细则]]></title>
+            <link>https://jakukur.github.io/posts/Operator</link>
+            <guid>https://jakukur.github.io/posts/Operator</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>操作手考核</h1>
+<ul>
+<li>操作手考核主要分为三部分</li>
+</ul>
+<ol>
+<li>基本规则知识————<strong>30%</strong></li>
+<li>基础能力测试————<strong>40%</strong></li>
+<li>综合能力测试————<strong>30%</strong></li>
+</ol>
+<h2>基本规则知</h2>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/Operator" target="_blank">https://jakukur.github.io/posts/Operator</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+        <item>
+            <title><![CDATA[了解Robomaster操作手]]></title>
+            <link>https://jakukur.github.io/posts/2024-6-24-Know Operator</link>
+            <guid>https://jakukur.github.io/posts/2024-6-24-Know Operator</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>了解Robomaster操作手</h1>
+<h3><em>谨此纪念我的大一RM生涯</em></h3>
+<hr>
+<p>[了解Robomaster操作手.pdf](<a href="https://blog.jakukur0226">https://blog.jakukur0226</a>.</p>
+<br/><p>访问 <a href="https://jakukur.github.io/posts/2024-6-24-Know Operator" target="_blank">https://jakukur.github.io/posts/2024-6-24-Know Operator</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (若诩)</author>
+        </item>
+    </channel>
+</rss>

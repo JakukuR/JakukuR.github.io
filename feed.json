@@ -1,0 +1,98 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JakukuR Blog",
+    "home_page_url": "https://jakukur.github.io/",
+    "feed_url": "https://jakukur.github.io/feed.json",
+    "description": "A salted fish without a dream.",
+    "icon": "https://raw.githubusercontent.com/JakukuR/JakukuR.github.io/refs/heads/main/image/avatar.JPG",
+    "author": {
+        "name": "若诩",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>SDUST-Sandard rm_vision 本地部署流程</h1>\n<hr>\n<ul>\n<li>\n<h2>依赖环境</h2>\n<p>（1）<strong>系统环境</strong></p>\n<p>​\t1、Ubuntu-22.04</p>\n</li>\n</ul>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/local deployment\" target=\"_blank\">https://jakukur.github.io/posts/local deployment</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/local deployment",
+            "title": "SDUST-Sandard rm_vision 本地部署流程",
+            "date_modified": "2024-11-28T00:00:00.000Z",
+            "date_published": "2024-11-28T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>Docker部署rm_vision</h1>\n<h2><s><em><strong>（网络）</strong></em></s> 网线调参 + 通过ssh在Vscode中查看/修改容器中的代码</h2>\n<ul>\n<li>\n<h4><em><strong>保姆级教程</strong></em></h4>\n</li>\n</ul>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/Docker_rm_vision\" target=\"_blank\">https://jakukur.github.io/posts/Docker_rm_vision</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/Docker_rm_vision",
+            "title": "Docker部署rm_vision——保姆级流程",
+            "date_modified": "2024-11-16T00:00:00.000Z",
+            "date_published": "2024-11-16T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>Sentry_SDUST简易部署流程</h1>\n<hr>\n<h2>1、依赖</h2>\n<ul>\n<li><strong>系统</strong>\n<ul>\n<li>Ubuntu 22.04</li>\n<li>ROS Humble (desktop-fu</li>\n</ul>\n</li>\n</ul>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/Sentry_SDUST\" target=\"_blank\">https://jakukur.github.io/posts/Sentry_SDUST</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/Sentry_SDUST",
+            "title": "Sentry_SDUST简易部署流程",
+            "date_modified": "2024-11-15T00:00:00.000Z",
+            "date_published": "2024-11-15T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>操作手考核笔试部分 [2024.10]</h1>\n<blockquote>\n<p>题目为<strong>填空题、不定项选择题以及简答题</strong>，考察对比赛以及部分规则了解程度</p>\n</blockquote>\n<h3>一、 填空（30%）</h3>\n<p>1、Robomaste</p>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/op2\" target=\"_blank\">https://jakukur.github.io/posts/op2</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/op2",
+            "title": "操作手考核笔试部分",
+            "date_modified": "2024-10-08T00:00:00.000Z",
+            "date_published": "2024-10-08T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>视觉资料库 &amp;&amp; 入门指北</h1>\n<p><a href=\"https://sjtu-robomaster-team.github.io/\">上海交通大学云汉交龙战队博客</a></p>\n<p>[云汉交龙视觉——Harry个人博客](htt</p>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/particulars\" target=\"_blank\">https://jakukur.github.io/posts/particulars</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/particulars",
+            "title": "视觉资料库 && 入门指北",
+            "date_modified": "2024-10-03T00:00:00.000Z",
+            "date_published": "2024-10-03T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>操作手考核</h1>\n<ul>\n<li>操作手考核主要分为三部分</li>\n</ul>\n<ol>\n<li>基本规则知识————<strong>30%</strong></li>\n<li>基础能力测试————<strong>40%</strong></li>\n<li>综合能力测试————<strong>30%</strong></li>\n</ol>\n<h2>基本规则知</h2>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/Operator\" target=\"_blank\">https://jakukur.github.io/posts/Operator</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/Operator",
+            "title": "操作手考核细则",
+            "date_modified": "2024-10-02T00:00:00.000Z",
+            "date_published": "2024-10-02T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>了解Robomaster操作手</h1>\n<h3><em>谨此纪念我的大一RM生涯</em></h3>\n<hr>\n<p>[了解Robomaster操作手.pdf](<a href=\"https://blog.jakukur0226\">https://blog.jakukur0226</a>.</p>\n<br/><p>访问 <a href=\"https://jakukur.github.io/posts/2024-6-24-Know Operator\" target=\"_blank\">https://jakukur.github.io/posts/2024-6-24-Know Operator</a> 阅读全文。</p>",
+            "url": "https://jakukur.github.io/posts/2024-6-24-Know Operator",
+            "title": "了解Robomaster操作手",
+            "date_modified": "2024-06-24T00:00:00.000Z",
+            "date_published": "2024-10-01T00:00:00.000Z",
+            "author": {
+                "name": "若诩",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
